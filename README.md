@@ -32,7 +32,5 @@ I'm a 20-year-old computer science student with a passion for surfing and outdoo
 
  <h2> 📊 Stats </h3>
 
-<div style="display: flex; justify-content: flex-end; align-items: center;">
-      <p style="order: 2;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otaola03&show_icons=true&locale=en&layout=compact" alt="otaola03" /></p>
-      <p style="order: 1; margin-right: 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=otaola03&show_icons=true&locale=en" alt="otaola03" /></p>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otaola03&show_icons=true&locale=en&layout=compact&theme=dark" alt="otaola03" width="40%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=otaola03&show_icons=true&locale=en&theme=dark" alt="otaola03" width="40%" />
