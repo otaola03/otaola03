@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Surfer)`**
 
-I'm a 20-year-old computer science student at UNED with a passion for surfing and outdoor activities. I've been learning software engineering at 42 Urduliz since 2022, which is part of the 42 global network, with 47 campuses in 26 countries and more than 20,000 students. Its methodology focuses on projects and challenges based on real life, promoting teamwork and continuous collaboration between students.
+I'm a 21-year-old computer science student at UNED with a passion for surfing and outdoor activities. I've been learning software engineering at 42 Urduliz since 2022, which is part of the 42 global network, with 47 campuses in 26 countries and more than 20,000 students. Its methodology focuses on projects and challenges based on real life, promoting teamwork and continuous collaboration between students.
 
 <div style="display: flex; justify-content: flex-start;">
       <a href="https://03-jon-perez.gitbook.io/coding-library/" display="block"; style="margin-right: 10px" target="_blank">
